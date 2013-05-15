@@ -127,6 +127,6 @@ def filtered_chars_from_text(text):
 def filtered_letter_objects(text):
     """Letter objects from "filtered" text (characters that are defined) """
     chars = filtered_chars_from_text(text)
-    letter_objects = map(Letter, [c for c in chars])
+    letter_objects = list(map(Letter, [c for c in chars]))
     return letter_objects
 
