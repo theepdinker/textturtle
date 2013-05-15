@@ -1,18 +1,10 @@
----
-title: TextTurtle
-description: Draw text with a Python Turtle!
-author: Don Cook
-tags: python, turtle
-created:  2013 Mar 16
-
----
 
 TextTurtle
 =========
 
 ## Draw text with a Python Turtle!
 
-[![textturtle](https://raw.github.com/theepdinker/textturtle/master/img/screenshot.png)](#features)
+[![textturtle](https://raw.github.com/theepdinker/textturtle/master/screenshot.png)](#features)
 
 TextTurtle is a Turtle that can draw text!
 
